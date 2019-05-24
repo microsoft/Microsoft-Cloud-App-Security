@@ -1,3 +1,12 @@
+# Cloud App Security
+Welcome to the Cloud App Security repository! This repository contains out of the box playbooks and scripts to help you automate scenarios with Cloud App Security and provide you security content to secure your environment and hunt for threats. You can also submit any [issues](https://github.com/microsoft/Microsoft-Cloud-App-Security/issues) or feature requests as you onboard to Cloud App Security. For questions and feedback, please contact [MCAS@microsoft.com](MCAS@microsoft.com)
+
+# Resources
+[Getting started with GitHub](https://help.github.com/en#dotcom)
+
+[Cloud App Security documentation](https://docs.microsoft.com/en-us/cloud-app-security/)
+
+[Cloud App Security Techcommunity](https://techcommunity.microsoft.com/t5/Microsoft-Cloud-App-Security/bd-p/MicrosoftCloudAppSecurity)
 
 # Contributing
 
