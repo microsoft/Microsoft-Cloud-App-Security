@@ -18,72 +18,11 @@ After selecting a playbook, in the MCAS portal:
 
 ## Available Playbooks
 
-### Route alerts to different SOC teams based on geography of the user
+### Remove sensitive file sharing after requesting user validation
 
-Package: xyz.zip
-
-#### Description
-
-### Route alerts to ticketing systems such as Jira or ServiceNow
-
-Package: xyz.zip
+Package: Remove_sensitive_file_sharing_after_requesting_user.zip
 
 #### Description
 
-### Request manager approval to execute actions (ex. disable user account) for CAS alert
-
-Package: xyz.zip
-
-#### Description
-
-### Request user input to decide how to triage an alert
-
-Package: xyz.zip
-
-#### Description
-
-### Block unsanctioned apps on the firewall using CAS discovery alerts
-
-Package: xyz.zip
-
-#### Description
-
-### Get admin approval to execute remediation action
-
-Package: xyz.zip
-
-#### Description
-
-### Disable user in AAD and in on-prem Active Directory based on suspicious alerts
-
-Package: xyz.zip
-
-#### Description
-
-### Remove malicious forwarding inbox rule in Exchange Online
-
-Package: xyz.zip
-
-#### Description
-
-### Automatically dismiss “unusual location” alerts when a user has OOF message set to “On”
-
-Package: xyz.zip
-
-#### Description
-
-### MCAS alert triggers antivirus scan using WDATP connector
-
-Package: xyz.zip
-
-#### Description
-
-### Query alerts using Graph API for entity in MCAS alert
-
-Package: xyz.zip
-
-#### Description
-
-
-## Suggestions and feedback
-We value you feedback so don't hesitate to contact us at **xxx@microsoft.com**
+Our blog post:
+https://techcommunity.microsoft.com/t5/microsoft-security-and/alert-new-blog-series-automation-in-cloud-app-security/ba-p/1608357
