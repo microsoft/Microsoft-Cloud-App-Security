@@ -16,7 +16,7 @@ For questions and feedback, please contact [MCAS@microsoft.com](MCAS@microsoft.c
 
 * ### Scripts
     The Scripts folder contains scripts that can be used to automate Microsoft Cloud App Security scenarios. 
-    * Simulate a Log Collector using Azure Automation *Coming soon*
+    * Simulate a Log Collector using Azure Automation
 
 ---
 
