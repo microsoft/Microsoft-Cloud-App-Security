@@ -14,7 +14,7 @@ $runbookName = "MCAS-LogSim" # The name of the runbook to be created
 $scheduleName = "Schedule01" # The name of the runbook schedule to be created
 $user = "{tenant}.{location}.portal.cloudappsecurity.com" # Replace {tenant} and {location} with your MCAS tenant information
 $api = ConvertTo-SecureString "{API Key}" -AsPlainText -Force # Replace {API-Key} with the key generated in MCAS
-$localPath = "C:\Simulate a Log Collector using Azure Automation" # File path for your cloned repo (with no trailing backslash)
+$localPath = "C:\Microsoft-Cloud-App-Security-master\Scripts\Simulate a Log Collector using Azure Automation" # File path for your cloned repo (with no trailing backslash)
 $dataSource = "Log-Sim" # The name of the data source you have created in MCAS
 
 ## ------------------------------------------------- ##

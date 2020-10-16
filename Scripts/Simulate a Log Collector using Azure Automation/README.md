@@ -45,7 +45,7 @@ The following resources will be deployed in Azure:
 </p> <p></p>
 
 ### Prepare scripts
-* Download a local copy of the "Simulate a Log Collector using Azure Automation" folder
+* [Clone](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop) this repo locally
 * In `deploy.ps1`
     * Update the variable set (lines 7-> 18) with desired values
     * `$storagename` must be a globally unique value
@@ -56,7 +56,7 @@ The following resources will be deployed in Azure:
     * When setting `$localPath` 
         * set to your cloned local repo
         * do not included a trailing backslash
-        * i.e. `C:\Users\Contoso\Documents\Simulate a Log Collector using Azure Automation`
+        * i.e. `C:\Users\Contoso\Documents\Microsoft-Cloud-App-Security-master\Scripts\Simulate a Log Collector using Azure Automation`
 
 ### Deploy to Azure
 * Run `deploy.ps1` with administrative privileges
