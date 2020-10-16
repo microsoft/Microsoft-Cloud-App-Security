@@ -6,7 +6,7 @@ Connect-AzAccount
 
 $subscriptionId = "{subscriptionId}" # Replace {subscriptionId} with the ID of the Azure subscription resources will be deployed to
 $resourceGroup = "MCASLogs-RG" # The name of the Resource Group to be created
-$storageName = "{globally-unique-name}" # A globally unique name for the Storage Account to be created
+$storageName = "{storageName}" # Replace {storageName} with a **globally unique name** for the Storage Account to be created
 $location = "eastus" # The location resources will be deployed to in Azure
 $containerName = "mcaslogscontainer" # The name of the storage container to be created
 $automationName = "MCASLogSim-AA" # The name of the automation account to be created
